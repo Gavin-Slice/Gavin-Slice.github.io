@@ -1,1 +1,2 @@
-One of my frist project I made of the game called snake.
+link to get to the website
+https://gavin-slice.github.io/index.html
