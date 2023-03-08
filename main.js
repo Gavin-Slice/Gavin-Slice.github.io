@@ -42,4 +42,3 @@ window.onscroll = () => {
     duration: 2000,
     delay: 200
 });
-

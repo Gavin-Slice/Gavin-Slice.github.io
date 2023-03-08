@@ -1,0 +1,90 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color: aqua;
+}
+
+.game {
+    background-color: blueviolet;
+    border-radius: 12px;
+}
+
+
+.title {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 12px;
+    font-size: 24px;
+}
+
+.score {
+    text-align: center;
+}
+
+.playerScore {
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
+.move {
+    text-align:  center;
+}
+
+.movesleft {
+    text-align: center;
+}
+
+.options {
+    text-align: center;
+    padding: 10px;
+}
+
+.rock {
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.rock:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+.paper {
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.paper:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+.scissor {
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.scissor:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+.result {
+    text-align: center;
+}
+
+.reload {
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.reload:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
